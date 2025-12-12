@@ -7,9 +7,9 @@ Web Developer
 I'm a web developer, it's my job)
 
 * 🌍  I'm based in I'm based in Uzbekistan----Tashkent
-* 🧠  I'm learning JS
+* 🧠  I know JS , React
 * 🤝  I'm open to collaborating on in web development
-* ⚡  I.m betman}}
+
 
 ### Skills
 
@@ -30,12 +30,5 @@ I'm a web developer, it's my job)
 
 <a href="https://github.com/Elyor548" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyor548&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Elyor554"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Elyor554"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
